@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://github.com/ahmedsemih/CrowdFunding-dApp/assets/102798814/165084d2-f40c-4bd2-bb54-fcaae466540f
 
 # CrowdFunding dApp
@@ -75,3 +76,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 npm run dev
 
 ```
+=======
+# Community_catalyst
+Blockchain-Based Fundraising System , UPI tracked web 3 currency !!
+>>>>>>> c8138d733176a71012470abd7bb28bcbf0038f9c
